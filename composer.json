@@ -10,6 +10,6 @@
     ],
 
     "require": {
-        "libra/libra-assets-installer": "~2.0.0"
+        "libra/libra-assets-installer": "^2.0.0"
     }
 }
